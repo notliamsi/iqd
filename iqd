@@ -29,9 +29,9 @@ else
   exit 1
 fi
 
-# Installing requirement
+# Installing requirements
 
-echo -e "\n${BLUE}> Installing requirement...${RESET}"
+echo -e "\n${BLUE}> Installing requirements...${RESET}"
 
 sudo apt install nala
 
